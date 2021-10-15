@@ -78,14 +78,20 @@ h1, h2 {
 
  }
 
-#left-side {
+#under-text > h2 {
     padding-top: 20px;
-    width: 50%;
-    float: left;
+    text-decoration: underline;
 }
 
-#right-side {
-    padding-top: 20px;
-    width: 50%;
-    float: right;
+#center, #center > p {
+    text-align:centre;
+    padding-top: 10px;
+    width: 66%;
+    margin: 0 auto;
+    clear:both;
+    margin-bottom: 20px;
+}
+
+#location{
+    color:black;
 }
