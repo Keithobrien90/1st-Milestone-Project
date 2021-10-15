@@ -51,5 +51,11 @@ h1, h2 {
     border-bottom: 2px solid blue;
 }
  .pagetop {
-    border-bottom: 2px solid blue;
+    border-bottom: 2px solid blue
+ }
+
+ #main-image {
+     height:500px;
+     width: 100%;
+     background: url('../images/pexels-lukas-medvedevas-6006077\ \(1\).jpeg') no-repeat center center;
  }
