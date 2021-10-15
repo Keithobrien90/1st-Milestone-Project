@@ -23,6 +23,7 @@ h1, h2 {
 #title {
     float:left;
     font-size:250%;
+    margin-left: 20px;
 }
 
 /* nav links */
@@ -50,6 +51,9 @@ h1, h2 {
 #menu a:hover {
     border-bottom: 2px solid blue;
 }
+
+/* image and image text*/
+
  .pagetop {
     border-bottom: 2px solid blue
  }
@@ -60,3 +64,11 @@ h1, h2 {
      background: url('../images/pexels-lukas-medvedevas-6006077\ \(1\).jpeg') no-repeat center center;
      overflow:hidden;
  }
+
+ #under-text {
+     padding-top: 10px;
+     text-align: center;
+     font-family: Roboto, sans serif;
+ }
+
+ 
