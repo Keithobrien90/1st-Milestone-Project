@@ -21,6 +21,35 @@ h1, h2 {
 }
 
 #title {
-    text-align:center;
+    float:left;
     font-size:250%;
 }
+
+/* nav links */
+
+#menu {
+    letter-spacing:2px;
+    font-size: 120%;
+}
+
+#menu, #title {
+    line-height: 100px;
+}
+
+#menu li {
+    float:right;
+    list-style-type:none;
+    margin-right: 20px;
+}
+
+#menu a {
+    text-decoration:none;
+    color: #443B2F;
+}
+
+#menu a:hover {
+    border-bottom: 2px solid blue;
+}
+ .pagetop {
+    border-bottom: 2px solid blue;
+ }
