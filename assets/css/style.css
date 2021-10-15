@@ -9,7 +9,7 @@
 body {
     font-family: Roboto, sans-serif;
     font-weight:400;
-    color: #443B2F;
+    color: black;
 }
 
 /*headings and title*/
@@ -45,7 +45,7 @@ h1, h2 {
 
 #menu a {
     text-decoration:none;
-    color: #443B2F;
+    color: black;
 }
 
 #menu a:hover {
@@ -74,7 +74,7 @@ h1, h2 {
  /*why come to wicklow*/
 
  #why-wicklow {
-     height:500px;
+     height:350px;
 
  }
 
@@ -95,3 +95,62 @@ h1, h2 {
 #location{
     color:black;
 }
+
+/* events */
+
+#events {
+    height: 500px;
+}
+
+#left-event {
+    padding-top: 10px;
+    width: 33%;
+    float: left;
+}
+
+#right-event {
+    padding-top: 10px;
+    width: 33%;
+    float: right;
+}
+
+#middle-event {
+    width:33%;
+    margin: 0 auto;
+}
+
+#eventid {
+    color:black;
+}
+
+hr {
+    border-top: 2px solid black;
+    width: 100%;
+    margin: 5px 0;
+}
+
+.left-event-1 {
+    width:60%;
+    float:right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom:20px;
+}
+
+.right-event-1 {
+    width:60%;
+    float:left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom:20px;
+}
+
+.right-event-1 h2 {
+    text-align: right;
+}
+
+.right-event-1 p {
+    text-align: right;
+}
+
+
