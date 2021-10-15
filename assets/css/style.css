@@ -71,4 +71,21 @@ h1, h2 {
      font-family: Roboto, sans serif;
  }
 
- 
+ /*why come to wicklow*/
+
+ #why-wicklow {
+     height:500px;
+
+ }
+
+#left-side {
+    padding-top: 20px;
+    width: 50%;
+    float: left;
+}
+
+#right-side {
+    padding-top: 20px;
+    width: 50%;
+    float: right;
+}
