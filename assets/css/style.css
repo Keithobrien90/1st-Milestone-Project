@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&family=Roboto&display=swap');
 
 *{
     margin:0;
@@ -7,6 +7,20 @@
 }
 
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: Roboto, sans-serif;
     font-weight:400;
+    color: #443B2F;
+}
+
+/*headings and title*/
+
+h1, h2 {
+    font-family: Noto Sans JP, sans-serif;
+    letter-spacing: 2px;
+    color: black;
+}
+
+#title {
+    text-align:center;
+    font-size:250%;
 }
