@@ -6,13 +6,13 @@ Visit Wicklow website is a landing page for both local tourists going on a stayc
 
 Users of this website will be able to find plenty of wonderful things to attract themn to wicklow, and will have the oppurtunity to sign up to a newsletter to keep an eye on upcoming events.]
 
-![screenshot](https://github.com/keithobrien90/1st-Milestone-Project/blob/assets/Screenshot.png)
+![screenshot](images/screenshot.png)
 
 **Features**
 **Existing features**
 
 Navigation bar;
-- Featured on all three pages, the navigation bar is fullyt responsive abd includes links to home, areas of interest to vist and a form to sign up for a newsletter.
+- Featured on all three pages, the navigation bar is fully responsive and includes links to home, areas of interest to vist and a form to sign up for a newsletter.
 - This section easily allows users to navigate across all pages of the site on all devices.
 
 **The Landing Page**

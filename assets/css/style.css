@@ -15,7 +15,7 @@ body {
 /*headings and title*/
 
 h1, h2 {
-    font-family: Noto Sans JP, sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
     letter-spacing: 2px;
     color: black;
 }
@@ -69,7 +69,7 @@ h1, h2 {
  #under-text {
      padding-top: 10px;
      text-align: center;
-     font-family: Roboto, sans serif;
+     font-family: 'Roboto', sans serif;
  }
 
  /*why come to wicklow*/
@@ -85,7 +85,7 @@ h1, h2 {
 }
 
 #center, #center > p {
-    text-align:centre;
+    text-align:center;
     padding-top: 10px;
     width: 66%;
     margin: 0 auto;
