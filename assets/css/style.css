@@ -178,3 +178,67 @@ hr {
 }
 
 /* social */
+
+footer {
+    height: 100px;
+}
+
+.socials {
+    text-align:center;
+}
+
+.socials > li {
+    display: inline;
+}
+
+.socials i {
+    font-size: 260%;
+    margin: 1%;
+    padding: 5%;
+    color: black;
+    
+}
+
+/* Where to Visit */
+
+#title-1 {
+    text-align:center;
+    clear: both;
+    font-size: 120%;
+    margin-bottom: 20px;
+}
+
+#place-1 {
+    height: 500px;
+    width: 100%;
+    background: url('../images/header-wicklow-gaol-wicklow.jpg') no-repeat center center;
+    margin-bottom: 10px;
+}
+
+#place-2 {
+    height: 500px;
+    width: 100%;
+    background: url('../images/JpCYx1A\ \(1\).jpeg') no-repeat center center;
+    margin-bottom: 10px;
+}
+
+#place-3 {
+    height: 500px;
+    width: 100%;
+    background: url('../images/Bray-Seafront_1\ \(1\).jpeg') no-repeat center center;
+}
+#wicklow-gaol{
+    color: black;
+    margin-left: 10px;
+
+}
+#victors-way{
+    color: white;
+    margin-left: 10px;
+}
+
+#bray{
+    color: black;
+    margin-left: 10px;
+}
+
