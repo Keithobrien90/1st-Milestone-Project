@@ -6,10 +6,7 @@ Visit Wicklow website is a landing page for both local tourists going on a stayc
 
 Users of this website will be able to find plenty of wonderful things to attract themn to wicklow, and will have the oppurtunity to sign up to a newsletter to keep an eye on upcoming events.]
 
-
-<img src="https://imgur.com/a/zifmBDQ" alt=picture of project on different sized screens>
-
-![alt text](https:/assets/images/JpCYx1A(1).jpeg)
+![picture of website in diff formats](assets/images/screenshot.png)
 
 **Features**
 **Existing features**
@@ -18,32 +15,45 @@ Users of this website will be able to find plenty of wonderful things to attract
 - Featured on all three pages, the navigation bar is fully responsive and includes links to home, areas of interest to vist and a form to sign up for a newsletter.
 - This section easily allows users to navigate across all pages of the site on all devices.
 
+
+
 **The Landing Page**
 - I tried to keep the landing page as clean and as easy to read as possible, with such a wide target audience i think this is best suited to appease to most. It includes a large photopragh which I believe captures wicklows stunning beauty and should cature their eye.
+
+![picture of website in diff formats](assets/images/landing-page.png)
 
 **Why visit Wicklow section**
 - Again, i kept this simple and clean so it's easy to read.
 - It details some of Wicklows most popular natural tourist attractions, which are easily clickable and show where each are located within the county, easyfor those who are looking to visit an area on the back of reading this section.
 
+![picture why wicklow section](assets/images/whywick.png)
+
 **Upcoming events section**
 - This section is styled simply again, with two sections to the left and right both providing information on a seperate upcoming event and an external hyper link to more information for anyone interested after reading.
 - Seperated by an image from pexel, more out there than any other image on the page but it represents a party (event) in a fun way nd should capture attention.
 
+![picture events section](assets/images/events.png)
+
 **The Footer**
 - The footer simply includes likes to social media sites for Visit Wicklow, with the links opening a new tab to allow easy navigation and keep them on our site too.
+
+![footer image](assets/images/footer.png)
 
 **Where to visit**
 - I have selected three lesser visited areas than those mentioned in my 'Why visit Wicklow section' with the aim to bring more tourists to these areas whilst they are in the county.
 - I styled the backround of each section on this page with a lrage background image as to grab the attention of those looking, with the title on each image leading to a webpage withg more information on each attraction.
 - This section is valuable to the visiter as they are easily able to identify each of the three attractions and easily get more information, whilst still staying on site, so they can fo back and forward between the three attractions.
 
+![example of where to visit](assets/images/where1.png)
+
+
 **The Newsletter page**
 -In keeping in line with the rest of the site i kept this clean and simple, it contains a simple form and a submit button to sign up to our newsletter.
 
+![newsletter image](assets/images/newsletter.png)
+
 **Color used**
 -So i kept it cleen with all white behind text on the landing page and black text, with menu navigation highlighted blue when the mouse hovers over it. This is the reoccuring color theme throughout the website.
-
-
 
 
 You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
