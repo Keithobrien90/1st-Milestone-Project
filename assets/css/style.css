@@ -234,7 +234,7 @@ footer {
 
 }
 #victors-way{
-    color: white;
+    color: blue;
     margin-left: 10px;
 }
 
@@ -373,3 +373,63 @@ footer {
         height: 200px;
     }
 }
+
+/* medium screens from 450 pixels down*/
+@media screen and (max-width:450px) {
+    #menu {
+        clear:left;
+        float: left;
+        line-height:25px;
+        font-size:small;
+    }
+
+    #why-wicklow {width:90%;
+        height:300px;
+        margin: 0 auto;
+        margin-bottom: 40px; 
+        font-size: small;
+    }
+
+    #center {width:90%;
+    height:400px;
+    margin:0 auto;
+    font-size:small;
+    }
+
+    #events {
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+        text-align:center;
+    }
+
+    #left-event, #right-event {
+        width:inherit;
+    }
+
+    #left-event h2 {
+        width:100%;
+        text-align: center;}
+
+    #right-event h2 {
+        width:100%;
+        text-align: center;
+
+    }
+    
+    #left-event > div {
+        width:100%;
+        clear:both;
+        padding: 0;
+        height:200px;
+    }
+
+    #right-event > div {
+        width:100%;
+        clear:both;
+        padding:0;
+        height: 200px;
+    }
+}
+
+
