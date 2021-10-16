@@ -314,9 +314,27 @@ footer {
         width:inherit;
     }
 
-    #left-event h2, #right-event h2 {
+    #left-event h2 {
         width:100%;
         text-align: center;}
+
+    #right-event h2 {
+        width:100%;
+        text-align: center;
+
+    }
     
-    
+    #left-event > div {
+        width:100%;
+        clear:both;
+        padding 0;
+        height:200px;
+    }
+
+    #right-event > div {
+        width:100%;
+        clear:both;
+        padding:0;
+        height: 200px;
+    }
 }
