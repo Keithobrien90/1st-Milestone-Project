@@ -242,6 +242,40 @@ footer {
     margin-left: 10px;
 }
 
+/* form for newsletter signup*/
+
+.form-section {
+    clear: left;
+    background-color: white;
+    height: 1200px;
+    width: 100%;
+}
+
+.newsletter-form {
+    Margin: 100px 10% 0 0;
+    color: black;
+    max-width: 300px;
+    position: absolute;
+    padding: 20px;
+}
+
+.text-input {
+    background: transparent;
+    color: black;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 2px solid grey;
+    border-radius: 4px;
+}
+
+.text-input:hover {border-color:blue}
+
+#signup {
+    background-color: blue;
+    color:white;
+}
+
 /* media queries */
 
 /* large to medium screens*/
