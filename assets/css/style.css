@@ -247,9 +247,14 @@ footer {
 /* large to medium screens*/
 @media screen and (max-width: 1200px) {
     
-    #why-wicklow {width:75%;
+    #why-wicklow {width:100%;
         height:500px;
         margin: 0 auto;}
+
+    #center {width:100%;
+    height:500px;
+    margin:0 auto;
+}
     
     #events {
         width:65%;
@@ -286,4 +291,32 @@ footer {
         margin-bottom: 20px;
         line-height:25px;
     }
+
+    #why-wicklow {width:90%;
+        height:500px;
+        margin: 0 auto;
+        margin-bottom: 20px; 
+    }
+
+    #center {width:90%;
+    height:400px;
+    margin:0 auto;
+    }
+
+    #events {
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+        text-align:center;
+    }
+
+    #left-event, #right-event {
+        width:inherit;
+    }
+
+    #left-event h2, #right-event h2 {
+        width:100%;
+        text-align: center;}
+    
+    
 }
