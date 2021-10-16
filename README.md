@@ -1,10 +1,23 @@
 <h1>Vist Wicklow</h1>
 
-Welcome! to the greatest county in wicklow!
+Welcome! to the greatest county in Ireland!
 
-Visit Wicklow website is a landing page for both local tourists going on a staycation and those coming in from abroad as Covis restrictions ease.
+Visit Wicklow website is a landing page for both local tourists going on a staycation and those coming in from abroad as Covid restrictions ease, with the aim of increaseing local tourism.
 
-Users of this website will be able to find plenty of wonderful things to attract themn to wicklow, and will have the oppurtunity to sign up to a newsletter to keep an eye on upcoming events.
+Users of this website will be able to find plenty of wonderful things to attract themn to wicklow, and will have the oppurtunity to sign up to a newsletter to keep an eye on upcoming events.]
+
+![screenshot](https://github.com/keithobrien90/1st-Milestone-Project/blob/assets/Screenshot.png)
+
+**Features**
+**Existing features**
+
+Navigation bar;
+- Featured on all three pages, the navigation bar is fullyt responsive abd includes links to home, areas of interest to vist and a form to sign up for a newsletter.
+- This section easily allows users to navigate across all pages of the site on all devices.
+
+**The Landing Page**
+
+
 
 You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
 
