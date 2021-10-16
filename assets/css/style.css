@@ -156,7 +156,7 @@ hr {
 
 #event-title {
     text-align: center;
-    margin: 20x;
+    margin: 20px;
     font-size: 200%;
     margin-bottom: 30px;
 }
@@ -226,7 +226,7 @@ footer {
 #place-3 {
     height: 500px;
     width: 100%;
-    background: url('../images/Bray-Seafront_1\ \(1\).jpeg') no-repeat center center; alt: image of bray seafront;
+    background: url('../images/Bray-Seafront_1\ \(1\).jpeg');
 }
 #wicklow-gaol{
     color: black;
@@ -386,7 +386,7 @@ footer {
     #why-wicklow {width:90%;
         height:300px;
         margin: 0 auto;
-        margin-bottom: 40px; 
+        margin-bottom: 20%; 
         font-size: small;
     }
 
@@ -398,7 +398,7 @@ footer {
 
     #events {
         width: 90%;
-        height: 1200px;
+        height: 1000px;
         margin: 0 auto;
         text-align:center;
     }
