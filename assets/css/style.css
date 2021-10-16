@@ -58,6 +58,7 @@ h1, h2 {
     border-bottom: 2px solid blue
  }
 
+ /* image from pexel*/
  #main-image {
      height:500px;
      width: 100%;
@@ -170,7 +171,7 @@ hr {
     border-radius: 50%;
     margin: 0 auto;
 }
-
+/* image from pexel*/
 #circle-cover-bg {
     background: url('../images/pexels-pineapple-supply-co-1071882.jpg') no-repeat center center;
     height: 100%;
@@ -207,21 +208,21 @@ footer {
     font-size: 120%;
     margin-bottom: 20px;
 }
-
+/* image from wicklow gaol website*/
 #place-1 {
     height: 500px;
     width: 100%;
     background: url('../images/header-wicklow-gaol-wicklow.jpg') no-repeat center center;
     margin-bottom: 10px;
 }
-
+/* image from victors way website*/
 #place-2 {
     height: 500px;
     width: 100%;
     background: url('../images/JpCYx1A\ \(1\).jpeg') no-repeat center center;
     margin-bottom: 10px;
 }
-
+/* image from bray.ie website*/
 #place-3 {
     height: 500px;
     width: 100%;

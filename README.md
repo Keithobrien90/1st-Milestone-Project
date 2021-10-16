@@ -1,8 +1,10 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+<h1>Vist Wicklow</h1>
 
-Welcome Keithobrien90,
+Welcome! to the greatest county in wicklow!
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Visit Wicklow website is a landing page for both local tourists going on a staycation and those coming in from abroad as Covis restrictions ease.
+
+Users of this website will be able to find plenty of wonderful things to attract themn to wicklow, and will have the oppurtunity to sign up to a newsletter to keep an eye on upcoming events.
 
 You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
 
